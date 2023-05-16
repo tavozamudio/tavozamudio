@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   📧 e-mail: luis.octavio.zamudio@gmail.com <br>
-  📞 WhatsApp: 7292389470
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
